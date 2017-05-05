@@ -24,12 +24,11 @@ THEME="/Users/ams/Dropbox/GitHub/pelican-themes/aboutwilson"
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('@Alex_M_Sullivan', 'https://twitter.com/Alex_M_Sullivan'),
+          )
 
 DEFAULT_PAGINATION = 10
 
